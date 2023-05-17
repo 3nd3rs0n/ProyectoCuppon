@@ -1,0 +1,25 @@
+body{
+    font-family: "roboto";
+}
+
+.fondo{
+    background-color: rgb(99, 19, 65);
+}
+
+.logo{
+    height:25px;
+    width: 86px;
+}
+
+.logo1{
+    height: 24px;
+    width: 82px;
+}
+
+.formulario{
+    background-color: #28a745
+}
+.card-footer {
+    color: #28a745;
+}
+
